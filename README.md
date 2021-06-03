@@ -12,6 +12,4 @@ Make sure to download all the files in the same folder and run Project.py on you
 THANKS
 
 WRITTEN BY:
-Aakarsh Jain 
-Vansh Singh
-Tejas Bajaj
+Aakarsh Jain,Vansh Singh,Tejas Bajaj
