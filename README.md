@@ -10,3 +10,8 @@ This program uses mysql to store password. Thus, to run this on your machine, yo
 Make sure to download all the files in the same folder and run Project.py on your system.
 
 THANKS
+
+WRITTEN BY:
+Aakarsh Jain 
+Vansh Singh
+Tejas Bajaj
